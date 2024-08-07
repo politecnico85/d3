@@ -1,0 +1,5 @@
+https://www.freecodecamp.org/news/d3js-tutorial-data-visualization-for-beginners/
+
+https://dev.to/ellen_dev/learn-d3-js-with-me-bind-data-to-dom-selections-post-2-3ji8
+
+https://www.dashingd3js.com/d3-tutorial/adding-an-svg-element-using-d3-js

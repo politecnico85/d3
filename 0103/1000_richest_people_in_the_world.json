@@ -1,0 +1,7002 @@
+[
+  {
+    "Name": "Rob Walton",
+    "Country": "Mexico",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 8.5,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 44.76,
+    "Company": "Google"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 13.43,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 120.44,
+    "Company": "Google"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 122.39,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 93.19,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 117.96,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "France",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 36.62,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 97.35,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 88.05,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 29.31,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 167.09,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 60.75,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 192.96,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 71.13,
+    "Company": "Google"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 10.82,
+    "Company": "Google"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 90.08,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 167.65,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 6.94,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 184.8,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "France",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 17.46,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 117.13,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 197.26,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 47.87,
+    "Company": "Google"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 127.9,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 175.15,
+    "Company": "Google"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 53.96,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 148.66,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 72.35,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "Spain",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 30.55,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "France",
+    "Industry": "Media",
+    "Net Worth (in billions)": 167.65,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 29.77,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 65.8,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 120.51,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 171.94,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 3.69,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 92.64,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 29.97,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 54.67,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "Mexico",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 49.35,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 52.33,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 126.21,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 157.22,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 87.06,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 36.79,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "France",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 88.94,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 104.75,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 196.19,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 76.65,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 21.69,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 109.62,
+    "Company": "Google"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 61.5,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "Mexico",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 167.46,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "Spain",
+    "Industry": "Media",
+    "Net Worth (in billions)": 112.09,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 24.15,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 139.47,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "India",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 109.61,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 100.89,
+    "Company": "Google"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 86.58,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 160.64,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 70.01,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 53.09,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "France",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 106.39,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 186.37,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 177.1,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 100.8,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 36,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "France",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 44.35,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 180.02,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 105.8,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 169.08,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 84.27,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 22.88,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 48.99,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 57.78,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 90.12,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "France",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 57.85,
+    "Company": "Google"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 134.06,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "Spain",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 59.33,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 33.51,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "India",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 194.72,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 170.55,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "France",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 123.94,
+    "Company": "Google"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 145.87,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "France",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 87.52,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 17.86,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 164.98,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "France",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 82.74,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 70.21,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "India",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 48.59,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "India",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 138.61,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 199,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "Mexico",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 176.38,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "Spain",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 90.74,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 166.25,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 51.1,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 11.47,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 166.63,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 112.08,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 194.32,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 191.69,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 72.93,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 183.94,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 8.24,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "France",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 109.29,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 194.15,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 142.51,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 105.84,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 120.69,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 141.84,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "Mexico",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 11.51,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 193.83,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "India",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 77,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "India",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 4.6,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "Spain",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 80.54,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "France",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 199.2,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 178,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 41.71,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 88,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 175.34,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "France",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 66.6,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "Spain",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 186.81,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 106.16,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "India",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 46.05,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 158.29,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 93.74,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 119.85,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 47.16,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 151.76,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 29.09,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 165.72,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "Spain",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 135.05,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "Mexico",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 36.22,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 176.83,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 165.92,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 173.99,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 65.44,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 60.56,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 55.7,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 45.03,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 112.97,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 47.8,
+    "Company": "Google"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 174.17,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 81.1,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 125.14,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 106.52,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 40.21,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 182.38,
+    "Company": "Google"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 129.8,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 150.87,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 68.77,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 194.47,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 3.21,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 105.04,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 17.06,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 162.04,
+    "Company": "Google"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 149.43,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "Mexico",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 51.37,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 8.34,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 144.61,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 173.14,
+    "Company": "Google"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 124.69,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 154.84,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 161.79,
+    "Company": "Google"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "France",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 125.62,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 163.08,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 103.89,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 134.7,
+    "Company": "Google"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 185.43,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 62.97,
+    "Company": "Google"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 118.35,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 78.34,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 62.27,
+    "Company": "Zara"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 17.24,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "Spain",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 41.38,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 161.02,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 47.56,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 179.5,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 104.36,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 71.56,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 8.52,
+    "Company": "Google"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 114.32,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "France",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 138.94,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 124.13,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "Spain",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 65.3,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 7.11,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 160.12,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 129.6,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 178.29,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "France",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 149.14,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 3.18,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 158.46,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 112.91,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 192.81,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 76.1,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 182.09,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "France",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 50.12,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 146.6,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "India",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 123.48,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 95.47,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 1.57,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 70.38,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "Mexico",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 187.64,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 7.01,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "France",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 150.71,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 28.29,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 191.67,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 43.87,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "Mexico",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 91.65,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 43.48,
+    "Company": "Google"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 79.89,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 101.91,
+    "Company": "Google"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 192.52,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "France",
+    "Industry": "Media",
+    "Net Worth (in billions)": 178.74,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 109.25,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 53.61,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 123.75,
+    "Company": "Google"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 79.29,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "Mexico",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 141.37,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "India",
+    "Industry": "Media",
+    "Net Worth (in billions)": 130.61,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "Mexico",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 183.31,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 125.15,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 110.14,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "France",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 168.37,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 160.39,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 80.8,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 104.54,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 30.12,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "Mexico",
+    "Industry": "Media",
+    "Net Worth (in billions)": 138.77,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "France",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 109.41,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 49.07,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 171.19,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 58.35,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 143.54,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "France",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 180.1,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 38.16,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "France",
+    "Industry": "Media",
+    "Net Worth (in billions)": 76.01,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 170.91,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "Spain",
+    "Industry": "Media",
+    "Net Worth (in billions)": 16.32,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 126.92,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 193.13,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 165.77,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "France",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 41.66,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "France",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 125.75,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 72.82,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 14.01,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 161.39,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 37.69,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 158.11,
+    "Company": "Google"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 91.5,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 57.47,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 9.33,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 139.1,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 6.48,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 88.32,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 113.23,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "India",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 32.61,
+    "Company": "Google"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 156.05,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 133.09,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "Mexico",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 156.29,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 183.18,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 152.37,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 38.42,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 140.57,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "Mexico",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 19.44,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 161.85,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 107.06,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 155.89,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "France",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 137.32,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "Mexico",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 183.95,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 52.09,
+    "Company": "Google"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 88.42,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 28.05,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 179.69,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 97.19,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 146.2,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 170.22,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 6.03,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 109.99,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 173.89,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 29.69,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 13.39,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 193.51,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "Spain",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 172.82,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "India",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 20.54,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "Mexico",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 143.27,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "France",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 168.29,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "France",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 28.72,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 186.12,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 114.92,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 84.59,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 38.47,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 108.6,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 196.03,
+    "Company": "Google"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 144.78,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 117.8,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 188.28,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "Spain",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 121.3,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 170.42,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 183.88,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 95.13,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 21.08,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 146.96,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 52.51,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "Mexico",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 100.56,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 110.73,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 85.24,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 102.84,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 127.4,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 181.45,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 118.89,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "India",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 32.99,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "India",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 142.77,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 69.19,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 117.18,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 58.9,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 2.77,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "Mexico",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 39.87,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 192.11,
+    "Company": "Google"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 169.52,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 152.78,
+    "Company": "Google"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 88.6,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "Spain",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 63.51,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 123.43,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 12.14,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 125.83,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 185.43,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 136.21,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 45.3,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 159.81,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 66.76,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 182.44,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 177.27,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "India",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 132.5,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 98.24,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 101.72,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "India",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 114.4,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "France",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 120.47,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 194.9,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "Spain",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 29.4,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 81.5,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 76.01,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 146.09,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "Spain",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 32.49,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 68.76,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 74.76,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "Spain",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 91.9,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 160.84,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 46.55,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 137.02,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 54.98,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 27.8,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 40.2,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 172.43,
+    "Company": "Google"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "France",
+    "Industry": "Media",
+    "Net Worth (in billions)": 143.26,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 153.14,
+    "Company": "Google"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 129.32,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 187.89,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "Mexico",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 66.02,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 2.99,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "Mexico",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 171.44,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 193.66,
+    "Company": "Zara"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 32.29,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 150.42,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 197.25,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 76.36,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 97.53,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 193.96,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 123.09,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 164.67,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 117.3,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 106.09,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "Spain",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 81.39,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "India",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 29.29,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 183.61,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 26.31,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "Mexico",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 197.6,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "India",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 198.05,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 130.36,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "Mexico",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 47.84,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 93.2,
+    "Company": "Google"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "Mexico",
+    "Industry": "Media",
+    "Net Worth (in billions)": 87.79,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 79.51,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 162.95,
+    "Company": "Google"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 89.48,
+    "Company": "Google"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 112.75,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 24.12,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 57.39,
+    "Company": "Google"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 99.6,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 39.71,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 65.6,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 184.55,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 78.03,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 130.23,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 49.42,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 58.83,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 159.55,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 150.51,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 3.27,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 159.28,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 124.88,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 64.96,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 26.35,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 188.05,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "Mexico",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 32.44,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "India",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 105.38,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 72.47,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 73.82,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 179.62,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 79.04,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 18.28,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 53.47,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 185.8,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 70.84,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "Spain",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 120.08,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 185.03,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 29.65,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 133.22,
+    "Company": "Google"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 137.08,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 90.57,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 38.95,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 106.7,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 116.42,
+    "Company": "Google"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 62.1,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 106.15,
+    "Company": "Google"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 55.52,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 12.76,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "France",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 78.03,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 83.16,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 54.05,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 41.68,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 180.47,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 144.63,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 67.29,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 182.65,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 27.22,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 4.01,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 123.26,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 72.83,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 151.59,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 30.27,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 135.01,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 116.42,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 59.92,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "India",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 82.28,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 169.31,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 59.49,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 58.44,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 183.17,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 99.67,
+    "Company": "Google"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 159.87,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 118.7,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 137.1,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "Mexico",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 149.93,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 9.23,
+    "Company": "Google"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 43.15,
+    "Company": "Google"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 65.74,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "India",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 151.72,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 190.56,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 150.29,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 93.27,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 74.91,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 2.41,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "Spain",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 61.95,
+    "Company": "Zara"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 10.98,
+    "Company": "Google"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "Spain",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 39.64,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "Spain",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 120.59,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "Spain",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 47.9,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 66.25,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 146.06,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 68.3,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 179.81,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 192.11,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 154.85,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 188.45,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "Mexico",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 48.56,
+    "Company": "Google"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "Mexico",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 10.94,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 134.81,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "Spain",
+    "Industry": "Media",
+    "Net Worth (in billions)": 80.62,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 104.04,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 179.91,
+    "Company": "Google"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 57.65,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 25.66,
+    "Company": "Google"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 84.65,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 72.75,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 158.16,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 76.21,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "India",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 19.26,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 73.92,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 82.06,
+    "Company": "Google"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 122.3,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 128.02,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "France",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 138.72,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 6.75,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "France",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 140.4,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 148.48,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "Mexico",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 186.53,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 180.36,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 138.8,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 75.9,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 85.85,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 29.38,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 138.85,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "Spain",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 191.89,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 23.17,
+    "Company": "Google"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 115.08,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 70.35,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 76.97,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 92.38,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 98.55,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "India",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 136.18,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 43.23,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 96.1,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 127.27,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "Mexico",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 66,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 47.33,
+    "Company": "Google"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 41.54,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "Mexico",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 88.13,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 126.23,
+    "Company": "Google"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 29.78,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 142.61,
+    "Company": "Google"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "India",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 180.06,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 92.06,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "Spain",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 140.11,
+    "Company": "Google"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 182.16,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 41.39,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 169.98,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 15.88,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 30.06,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "Mexico",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 85.05,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 98.43,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 108.96,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 149.67,
+    "Company": "Google"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 30.26,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 1.86,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 58.9,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 11.78,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 32.84,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 95.77,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 92.14,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 105.17,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 90.59,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 63.06,
+    "Company": "Google"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 177.42,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "Mexico",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 145.86,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 135.32,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 76.09,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 66.16,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "Mexico",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 171.01,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 160.47,
+    "Company": "Google"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 42.91,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 66.69,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 3.86,
+    "Company": "Google"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 150.6,
+    "Company": "Google"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 118.3,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 50.95,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "France",
+    "Industry": "Media",
+    "Net Worth (in billions)": 78.1,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "India",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 102.72,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 76.45,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 92.83,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "India",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 82.68,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "India",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 189.1,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 90.32,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "France",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 87.35,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 181.34,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 123.52,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 36.23,
+    "Company": "Google"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "France",
+    "Industry": "Media",
+    "Net Worth (in billions)": 128.3,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 189.48,
+    "Company": "Google"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "Mexico",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 53.03,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 182.5,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 46.36,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 18.68,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 165.01,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "Mexico",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 158.26,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 165.84,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 30.43,
+    "Company": "Google"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 120.09,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 180.58,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 55.01,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 166.82,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 139.71,
+    "Company": "Google"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 179.23,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 80.7,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 199.21,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "India",
+    "Industry": "Media",
+    "Net Worth (in billions)": 4.55,
+    "Company": "Google"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 78.74,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "France",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 112.13,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 71.84,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 7.33,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 155.19,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 65.74,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 95.08,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 163.63,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 189.18,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "Spain",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 138.05,
+    "Company": "Google"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 13.28,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 59.66,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 92.98,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 188.23,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 71.18,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 28.64,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 37.33,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 137.14,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 172.35,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "Mexico",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 94.85,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 127.45,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 39.33,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 58.71,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 139.32,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 40.58,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 193.57,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 21.42,
+    "Company": "Google"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 45.94,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 168.53,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 30.01,
+    "Company": "Google"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 199.24,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 110.87,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 86.83,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "Mexico",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 11.87,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 55.05,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "India",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 9.17,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "France",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 31.28,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 47.34,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 25.64,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 194.33,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "India",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 158.31,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 40.2,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 158.63,
+    "Company": "Google"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 56.77,
+    "Company": "Google"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 150.98,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 4.98,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 106.12,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 69.17,
+    "Company": "Google"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 114.58,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 185.61,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 196.43,
+    "Company": "Google"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 33.39,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 2.49,
+    "Company": "Google"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 3.61,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 83.56,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "Spain",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 94.22,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 97.4,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 56.48,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "France",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 164.93,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 188.07,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "Spain",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 188.76,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 42.04,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 186.87,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 105.84,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "India",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 189.21,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 45.19,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 132.38,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 66.3,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 90.31,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 81.38,
+    "Company": "Google"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 14.12,
+    "Company": "Google"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 71.75,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 188.65,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 15,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 43.74,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 12.88,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 55.24,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 113.41,
+    "Company": "Google"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 148.19,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 64.42,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 72.37,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "India",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 198.77,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 170.65,
+    "Company": "Google"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 82.25,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 164.18,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 87.72,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 100.33,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 97.36,
+    "Company": "Google"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 162.11,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "Spain",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 80.29,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 95.57,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "Mexico",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 121.14,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "India",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 154.22,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "France",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 5.68,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 148.28,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "India",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 92.02,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 28.38,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 81.01,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 44.48,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 21.34,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 72.74,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "France",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 188.93,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 13.64,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 43.1,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 110.97,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 98.27,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 161.06,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 143.65,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 172.72,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 115.16,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 9.3,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 114.97,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 194.57,
+    "Company": "Google"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 145.62,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 191.8,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "Mexico",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 10.59,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 126.86,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 161.41,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 88.92,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "Spain",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 73.93,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 146.07,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 109.45,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "France",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 95.22,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 52.53,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 191.54,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 34.76,
+    "Company": "Google"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 41.95,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 33.29,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 169.38,
+    "Company": "Google"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 107.75,
+    "Company": "Google"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 112.43,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 123.45,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 125.6,
+    "Company": "Google"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "Spain",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 184.41,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 169.26,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 112.07,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 107.99,
+    "Company": "Google"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 17.56,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 82.27,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 165.46,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 191.42,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 101.75,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 121.2,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 170.56,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 38.87,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 135.97,
+    "Company": "Google"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "India",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 109.18,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 155.82,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 30,
+    "Company": "Google"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 25.04,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 176.42,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "Mexico",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 96.27,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 93.8,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 192.9,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 184.99,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 31.05,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "Spain",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 141.47,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 34.6,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "India",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 46.86,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 67.34,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 159.42,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 56.21,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 136.06,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 106.55,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "Spain",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 117.43,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 138.55,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 118.71,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "Mexico",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 106.72,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "India",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 134.72,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 108.98,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 84.78,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "France",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 84.27,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 94.24,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 18.95,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 179.62,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 67.04,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 6.79,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "Mexico",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 194.75,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 118.56,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 29.75,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 165.33,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 107.69,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 110.27,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 189.29,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 14.94,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 99.37,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 64.9,
+    "Company": "Google"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "India",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 178.48,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 17.84,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 131.67,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "Spain",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 142.44,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 108.15,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 37.34,
+    "Company": "Google"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 168.08,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 109.48,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 133.03,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 171.27,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "Spain",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 117.37,
+    "Company": "Google"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 67.82,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "France",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 78.87,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 183.83,
+    "Company": "Google"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 4.18,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "India",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 146.19,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 52.23,
+    "Company": "Google"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 189.07,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 104.79,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 189.53,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 178.57,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 82.34,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "India",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 195.57,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 176.31,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "Spain",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 144.14,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 9.41,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 149.08,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 150.77,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "Spain",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 89.19,
+    "Company": "Google"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 109.59,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 107.4,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 23.91,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 191.9,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 90.66,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "France",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 185.14,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 62.24,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 66.24,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 2.92,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 3.62,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 19.47,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 183.93,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 14.02,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 116.42,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "Mexico",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 34.6,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 108.72,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 154.78,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 61.53,
+    "Company": "Google"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 162.7,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 168.87,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 35.44,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 108.88,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 40.5,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 153.31,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 107.12,
+    "Company": "Google"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 72.84,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 106.03,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 147.67,
+    "Company": "Google"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 162.39,
+    "Company": "Google"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 69.35,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 59.5,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 49.01,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 160.72,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 105.63,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 168.62,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 99.7,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 61.93,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 165.21,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 125.63,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "Mexico",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 115.32,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 153.75,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 64.87,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 45.18,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 197.41,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "France",
+    "Industry": "Media",
+    "Net Worth (in billions)": 105.56,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 54.19,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 145.35,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "Mexico",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 166.96,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 127.98,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 30.62,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "France",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 174.92,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 17.9,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "France",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 34.13,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 24.65,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 93.26,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 153.48,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 39.88,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 180.79,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 117.6,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 81.64,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "France",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 195.84,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 130.07,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 153.93,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 178.49,
+    "Company": "Google"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 55.13,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 155.14,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "Spain",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 12.37,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "Spain",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 126.8,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 149.17,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 75.32,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 83.8,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 72.29,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 41.62,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 22,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 13.26,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "India",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 107.66,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 82.6,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 165.13,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 20.19,
+    "Company": "Google"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 79.78,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 111.64,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 114.93,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 157.94,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "India",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 191.22,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 57.56,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "India",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 16.03,
+    "Company": "Google"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "France",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 102.34,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "Mexico",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 104.8,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "India",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 102.24,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 52.95,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "France",
+    "Industry": "Media",
+    "Net Worth (in billions)": 62,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 55.44,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 180.3,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 192.98,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 51.77,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 30.01,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 20.32,
+    "Company": "Google"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 157.87,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 44.15,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 36.3,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 192.24,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 20.01,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 98.48,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 104.62,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 187.04,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 22.73,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 59.68,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 144.37,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "France",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 188.43,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "India",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 81.33,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "Spain",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 65.98,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 199.1,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 12.97,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 198.34,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 49.99,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 109.15,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "Spain",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 166.86,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 46.73,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 25.67,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 190.44,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 134.08,
+    "Company": "Google"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 94.94,
+    "Company": "Google"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 153.74,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 179.63,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 108.48,
+    "Company": "Google"
+  },
+  {
+    "Name": "Bernard Arnault",
+    "Country": "USA",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 19.25,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 22.82,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 63.77,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 9.92,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "Mexico",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 45.56,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 147.54,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 98.27,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 95.89,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 90.66,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 23.4,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "Spain",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 115.55,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "India",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 121.63,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Telecommunications",
+    "Net Worth (in billions)": 157.52,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 112.34,
+    "Company": "Google"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 2.07,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "Spain",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 4.34,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 137.83,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 79.56,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "Mexico",
+    "Industry": "Media",
+    "Net Worth (in billions)": 28.71,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 121,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 153.79,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Larry Page",
+    "Country": "Mexico",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 57.8,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 100.73,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "Spain",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 73.4,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 171.88,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 140.12,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 120.23,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "France",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 83.67,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Elon Musk",
+    "Country": "Spain",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 178.96,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 126.53,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 55.55,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "India",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 54.9,
+    "Company": "Google"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "Spain",
+    "Industry": "Media",
+    "Net Worth (in billions)": 119.47,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "India",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 185.38,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 33.01,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Carlos Slim",
+    "Country": "USA",
+    "Industry": "Petrochemicals",
+    "Net Worth (in billions)": 198.05,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 147.35,
+    "Company": "Zara"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 92.59,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "USA",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 37.93,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 144.28,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 77.01,
+    "Company": "Google"
+  },
+  {
+    "Name": "Mukesh Ambani",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 96.68,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 169.07,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 188.95,
+    "Company": "LVMH"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 105.21,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 117.62,
+    "Company": "Berkshire Hathaway"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 132.01,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "India",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 45.63,
+    "Company": "Bloomberg LP"
+  },
+  {
+    "Name": "Francoise Bettencourt Meyers",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 71.3,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 151.55,
+    "Company": "Grupo Carso"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "Spain",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 36.1,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 187.02,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 28.26,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Bill Gates",
+    "Country": "Spain",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 77.99,
+    "Company": "Amazon"
+  },
+  {
+    "Name": "Michael Bloomberg",
+    "Country": "USA",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 127.12,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "Spain",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 141.48,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Jeff Bezos",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 98.19,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "David Koch",
+    "Country": "USA",
+    "Industry": "Cosmetics",
+    "Net Worth (in billions)": 185.84,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 73.76,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Sergey Brin",
+    "Country": "Spain",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 76.77,
+    "Company": "Google"
+  },
+  {
+    "Name": "Rob Walton",
+    "Country": "Mexico",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 48.46,
+    "Company": "Oracle"
+  },
+  {
+    "Name": "Steve Ballmer",
+    "Country": "USA",
+    "Industry": "Manufacturing",
+    "Net Worth (in billions)": 52.21,
+    "Company": "Microsoft"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "France",
+    "Industry": "Technology",
+    "Net Worth (in billions)": 137.79,
+    "Company": "Koch Industries"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 93.7,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Fashion",
+    "Net Worth (in billions)": 9.18,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Charles Koch",
+    "Country": "India",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 19.53,
+    "Company": "L'Oreal"
+  },
+  {
+    "Name": "Larry Ellison",
+    "Country": "Mexico",
+    "Industry": "Automotive",
+    "Net Worth (in billions)": 75.21,
+    "Company": "Tesla"
+  },
+  {
+    "Name": "Mark Zuckerberg",
+    "Country": "Mexico",
+    "Industry": "Finance",
+    "Net Worth (in billions)": 87.07,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Warren Buffett",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 142.66,
+    "Company": "Facebook"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "USA",
+    "Industry": "Media",
+    "Net Worth (in billions)": 166.87,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Alice Walton",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 30.44,
+    "Company": "Walmart"
+  },
+  {
+    "Name": "Amancio Ortega",
+    "Country": "Spain",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 163.18,
+    "Company": "Reliance Industries"
+  },
+  {
+    "Name": "Jim Walton",
+    "Country": "USA",
+    "Industry": "Retail",
+    "Net Worth (in billions)": 186.94,
+    "Company": "Berkshire Hathaway"
+  }
+]

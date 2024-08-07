@@ -1,0 +1,36 @@
+body {
+    margin: 2;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color: rgb(85, 238, 61);}
+
+p.d3class {
+    padding: 1em;
+    background: #e5e1e1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p.d3class1 {
+    padding: 1em;
+    background: #dad4d4;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p.d3class2 {
+    padding: 1em;
+    background: #c4bfbf;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
