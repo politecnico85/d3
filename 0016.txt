@@ -1,0 +1,73 @@
+//script
+
+var width = 700;
+var height = 600;
+
+const margin = { Top: 20, Rigth: 40, Bottom: 30, Left:30};
+
+const x_scale = d3.scaleBand().range([0, width]);
+const y_scale = d3.scaleLinear().range([height, 0]);
+
+
+const bodySelection = d3.select("body");
+
+const contenedor = bodySelection.append("div")
+                    .attr("id", "contenedor");
+
+const svg = d3.select("#contenedor")
+            .append("svg")
+            .attr("width", width)
+            .attr("height", height);
+
+const lineFunction = d3.line()
+            .x(function(d) { return d.anio_s; })
+            .y(function(d) { return d.ventas; })
+            .curve(d3.curveLinear);
+
+            
+
+d3.json('ventas.json').then( (data) => {
+    console.log(data);
+
+    
+    x_scale.domain(data.map((d) => {d.anio_s}));
+     y_scale.domain([0, d3.max(data, (d) => { d.ventas})]);
+    /*
+    var lineGraph = svg.append("path")
+    .attr("d", lineFunction(data))
+    .attr("stroke", "blue")
+    .attr("stroke-width", 2)
+    .attr("fill", "red")
+    */
+
+    svg
+        .selectAll("rect")
+        .data(data)
+        .enter()
+        .append("rect")
+        .attr("class", "bar")
+        .attr("x", (d) => x_scale(d.anio_s))
+        .attr("y", (d) => y_scale(d.ventas))
+        .attr("width", x_scale.bandwidth())
+        .attr("height", (d) => height - y_scale(d.ventas));
+    
+
+
+})
+
+
+//html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="estilos.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+    <div id="container"></div>
+    <script src="script.js"></script>
+</body>
+</html>
