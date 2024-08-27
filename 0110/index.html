@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="estilos.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body >
+    <div id="parametros"></div>
+    <div id="grafico"></div>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+        console.log("The page has loaded")
+        var myParent = document.body;
+        //var opciones = ["Volvo","Saab","Mercades","Audi"];
+        //var opciones = ["interpolateRgb", "interpolateRgbBasis", "interpolateRgbBasisClosed", "interpolateHsl", "interpolateHslLong", "interpolateLab", "interpolateHcl", "interpolateHclLong", "interpolateCubehelix", "interpolateCubehelixLong", "interpolateSpectral", "interpolatePRGn", "interpolateViridis",  "interpolateCubehelixDefault"];
+        var opciones = [{id:1, onj:"interpolateRgb"}, {id:2, onj:"interpolateRgbBasis"}, {id:3, onj: "interpolateRgbBasisClosed"}, {id: 4, onj: "interpolateHsl"}, {id: 5, onj: "interpolateHslLong"}, {id: 6,onj: "interpolateLab"}, {id: 7, onj:"interpolateHcl"}, {id:8, onj:"interpolateHclLong"}, {id: 9, onj:"interpolateCubehelix"}, {id:10, onj:"interpolateCubehelixLong"}, {id:11, onj:"interpolateSpectral"}, {id:12, onj:"interpolatePRGn"}, {id:13, onj:"interpolateViridis"},  {id:14, onj:"interpolateCubehelixDefault"}];
+        //Create and append select list
+        
+        contenedor = document.getElementById("parametros");
+        crearSelectOption(contenedor, opciones);
+
+        function crearSelectOption(parent, datos){
+            var selectList = document.createElement("select");
+            selectList.id = "mySelect";
+            parent.appendChild(selectList);
+
+            //console.log(datos.length);
+            // append the options
+            for(const opt of datos){
+                const el = document.createElement("option");
+                //console.log(opt);
+                el.textContent = opt.onj;
+                el.value = opt.id;
+                selectList.appendChild(el);
+            }
+            selectList.addEventListener("change",  (event) => {
+                //result.textContent = `You like ${event.target.value}`;
+                dibujarEscala("grafico", `${event.target.value}`);
+                console.log(`${event.target.value}`);
+            })
+        }
+
+
+
+        
+    })
+    </script>
+    
+    <script src="script.js"></script>
+</body>
+</html>

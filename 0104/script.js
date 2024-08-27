@@ -1,7 +1,7 @@
 const width = 960;
 const  height = 500;
 
-const x_scale = d3.scaleBand().range([0, width]);
+const x_scale = d3.scaleBand().range([0, width]).padding(0.15);
 const y_scale = d3.scaleLinear().range([height,0]);
 
 
