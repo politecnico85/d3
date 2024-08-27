@@ -31,12 +31,7 @@ d3.json("notas.json").then((data) => {
         .style("font-size", (d) => (d.nota *5) + "px")
         .text((d) => d.alumno)
         .style("color", (d) => c_scale(d.ranking))
-        /*
-        .on("mouseover", function(d,i) {
-            d3.select(this).transition()
-                .duration("50")
-                .attr("opaciry", "85%");
-        })*/
+
         .on("click", (event) => console.log(event))
         .on("mouseover", function (d, i) {
             //console.log(d)
