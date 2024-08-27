@@ -1,0 +1,542 @@
+[
+  {
+    "compania": "ORACLE",
+    "ventas": 50000,
+    "anio": 2010,
+    "anio_s": "2010"
+  },
+  {
+    "compania": "MICROSOFT",
+    "ventas": 35000,
+    "anio": 2010,
+    "anio_s": "2010"
+  },
+  {
+    "compania": "BROADCOM",
+    "ventas": 38000,
+    "anio": 2010,
+    "anio_s": "2010"
+  },
+  {
+    "compania": "NVIDIA",
+    "ventas": 15000,
+    "anio": 2010,
+    "anio_s": "2010"
+  },
+  {
+    "compania": "TESLA",
+    "ventas": 14000,
+    "anio": 2010,
+    "anio_s": "2010"
+  },
+  {
+    "compania": "AMD",
+    "ventas": 16000,
+    "anio": 2010,
+    "anio_s": "2010"
+  },
+  {
+    "compania": "ORACLE",
+    "ventas": 59000,
+    "anio": 2011,
+    "anio_s": "2011"
+  },
+  {
+    "compania": "MICROSOFT",
+    "ventas": 40000,
+    "anio": 2011,
+    "anio_s": "2011"
+  },
+  {
+    "compania": "BROADCOM",
+    "ventas": 37000,
+    "anio": 2011,
+    "anio_s": "2011"
+  },
+  {
+    "compania": "NVIDIA",
+    "ventas": 18000,
+    "anio": 2011,
+    "anio_s": "2011"
+  },
+  {
+    "compania": "TESLA",
+    "ventas": 17000,
+    "anio": 2011,
+    "anio_s": "2011"
+  },
+  {
+    "compania": "AMD",
+    "ventas": 17000,
+    "anio": 2011,
+    "anio_s": "2011"
+  },
+  {
+    "compania": "ORACLE",
+    "ventas": 65000,
+    "anio": 2012,
+    "anio_s": "2012"
+  },
+  {
+    "compania": "MICROSOFT",
+    "ventas": 50000,
+    "anio": 2012,
+    "anio_s": "2012"
+  },
+  {
+    "compania": "BROADCOM",
+    "ventas": 35000,
+    "anio": 2012,
+    "anio_s": "2012"
+  },
+  {
+    "compania": "NVIDIA",
+    "ventas": 20000,
+    "anio": 2012,
+    "anio_s": "2012"
+  },
+  {
+    "compania": "TESLA",
+    "ventas": 18000,
+    "anio": 2012,
+    "anio_s": "2012"
+  },
+  {
+    "compania": "AMD",
+    "ventas": 18000,
+    "anio": 2012,
+    "anio_s": "2012"
+  },
+  {
+    "compania": "ORACLE",
+    "ventas": 66000,
+    "anio": 2013,
+    "anio_s": "2013"
+  },
+  {
+    "compania": "MICROSOFT",
+    "ventas": 55000,
+    "anio": 2013,
+    "anio_s": "2013"
+  },
+  {
+    "compania": "BROADCOM",
+    "ventas": 40000,
+    "anio": 2013,
+    "anio_s": "2013"
+  },
+  {
+    "compania": "NVIDIA",
+    "ventas": 35000,
+    "anio": 2013,
+    "anio_s": "2013"
+  },
+  {
+    "compania": "TESLA",
+    "ventas": 19000,
+    "anio": 2013,
+    "anio_s": "2013"
+  },
+  {
+    "compania": "AMD",
+    "ventas": 19000,
+    "anio": 2013,
+    "anio_s": "2013"
+  },
+  {
+    "compania": "ORACLE",
+    "ventas": 68000,
+    "anio": 2014,
+    "anio_s": "2014"
+  },
+  {
+    "compania": "MICROSOFT",
+    "ventas": 57000,
+    "anio": 2014,
+    "anio_s": "2014"
+  },
+  {
+    "compania": "BROADCOM",
+    "ventas": 42000,
+    "anio": 2014,
+    "anio_s": "2014"
+  },
+  {
+    "compania": "NVIDIA",
+    "ventas": 38000,
+    "anio": 2014,
+    "anio_s": "2014"
+  },
+  {
+    "compania": "TESLA",
+    "ventas": 21000,
+    "anio": 2014,
+    "anio_s": "2014"
+  },
+  {
+    "compania": "AMD",
+    "ventas": 20000,
+    "anio": 2014,
+    "anio_s": "2014"
+  },
+  {
+    "compania": "ORACLE",
+    "ventas": 70000,
+    "anio": 2015,
+    "anio_s": "2015"
+  },
+  {
+    "compania": "MICROSOFT",
+    "ventas": 60000,
+    "anio": 2015,
+    "anio_s": "2015"
+  },
+  {
+    "compania": "BROADCOM",
+    "ventas": 45000,
+    "anio": 2015,
+    "anio_s": "2015"
+  },
+  {
+    "compania": "NVIDIA",
+    "ventas": 39000,
+    "anio": 2015,
+    "anio_s": "2015"
+  },
+  {
+    "compania": "TESLA",
+    "ventas": 22000,
+    "anio": 2015,
+    "anio_s": "2015"
+  },
+  {
+    "compania": "AMD",
+    "ventas": 21000,
+    "anio": 2015,
+    "anio_s": "2015"
+  },
+  {
+    "compania": "ORACLE",
+    "ventas": 76000,
+    "anio": 2016,
+    "anio_s": "2016"
+  },
+  {
+    "compania": "MICROSOFT",
+    "ventas": 70000,
+    "anio": 2016,
+    "anio_s": "2016"
+  },
+  {
+    "compania": "BROADCOM",
+    "ventas": 45000,
+    "anio": 2016,
+    "anio_s": "2016"
+  },
+  {
+    "compania": "NVIDIA",
+    "ventas": 39000,
+    "anio": 2016,
+    "anio_s": "2016"
+  },
+  {
+    "compania": "TESLA",
+    "ventas": 25000,
+    "anio": 2016,
+    "anio_s": "2016"
+  },
+  {
+    "compania": "AMD",
+    "ventas": 35000,
+    "anio": 2016,
+    "anio_s": "2016"
+  },
+  {
+    "compania": "ORACLE",
+    "ventas": 80000,
+    "anio": 2017,
+    "anio_s": "2017"
+  },
+  {
+    "compania": "MICROSOFT",
+    "ventas": 75000,
+    "anio": 2017,
+    "anio_s": "2017"
+  },
+  {
+    "compania": "BROADCOM",
+    "ventas": 50000,
+    "anio": 2017,
+    "anio_s": "2017"
+  },
+  {
+    "compania": "NVIDIA",
+    "ventas": 40000,
+    "anio": 2017,
+    "anio_s": "2017"
+  },
+  {
+    "compania": "TESLA",
+    "ventas": 30000,
+    "anio": 2017,
+    "anio_s": "2017"
+  },
+  {
+    "compania": "AMD",
+    "ventas": 40000,
+    "anio": 2017,
+    "anio_s": "2017"
+  },
+  {
+    "compania": "ORACLE",
+    "ventas": 120000,
+    "anio": 2018,
+    "anio_s": "2018"
+  },
+  {
+    "compania": "MICROSOFT",
+    "ventas": 80000,
+    "anio": 2018,
+    "anio_s": "2018"
+  },
+  {
+    "compania": "BROADCOM",
+    "ventas": 65000,
+    "anio": 2018,
+    "anio_s": "2018"
+  },
+  {
+    "compania": "NVIDIA",
+    "ventas": 55000,
+    "anio": 2018,
+    "anio_s": "2018"
+  },
+  {
+    "compania": "TESLA",
+    "ventas": 33000,
+    "anio": 2018,
+    "anio_s": "2018"
+  },
+  {
+    "compania": "AMD",
+    "ventas": 43000,
+    "anio": 2018,
+    "anio_s": "2018"
+  },
+  {
+    "compania": "ORACLE",
+    "ventas": 130000,
+    "anio": 2019,
+    "anio_s": "2019"
+  },
+  {
+    "compania": "MICROSOFT",
+    "ventas": 70000,
+    "anio": 2019,
+    "anio_s": "2019"
+  },
+  {
+    "compania": "BROADCOM",
+    "ventas": 70000,
+    "anio": 2019,
+    "anio_s": "2019"
+  },
+  {
+    "compania": "NVIDIA",
+    "ventas": 45000,
+    "anio": 2019,
+    "anio_s": "2019"
+  },
+  {
+    "compania": "TESLA",
+    "ventas": 31000,
+    "anio": 2019,
+    "anio_s": "2019"
+  },
+  {
+    "compania": "AMD",
+    "ventas": 40000,
+    "anio": 2019,
+    "anio_s": "2019"
+  },
+  {
+    "compania": "ORACLE",
+    "ventas": 120000,
+    "anio": 2020,
+    "anio_s": "2020"
+  },
+  {
+    "compania": "MICROSOFT",
+    "ventas": 65000,
+    "anio": 2020,
+    "anio_s": "2020"
+  },
+  {
+    "compania": "BROADCOM",
+    "ventas": 60000,
+    "anio": 2020,
+    "anio_s": "2020"
+  },
+  {
+    "compania": "NVIDIA",
+    "ventas": 35000,
+    "anio": 2020,
+    "anio_s": "2020"
+  },
+  {
+    "compania": "TESLA",
+    "ventas": 25000,
+    "anio": 2020,
+    "anio_s": "2020"
+  },
+  {
+    "compania": "AMD",
+    "ventas": 30000,
+    "anio": 2020,
+    "anio_s": "2020"
+  },
+  {
+    "compania": "ORACLE",
+    "ventas": 116000,
+    "anio": 2021,
+    "anio_s": "2021"
+  },
+  {
+    "compania": "MICROSOFT",
+    "ventas": 63000,
+    "anio": 2021,
+    "anio_s": "2021"
+  },
+  {
+    "compania": "BROADCOM",
+    "ventas": 57000,
+    "anio": 2021,
+    "anio_s": "2021"
+  },
+  {
+    "compania": "NVIDIA",
+    "ventas": 38000,
+    "anio": 2021,
+    "anio_s": "2021"
+  },
+  {
+    "compania": "TESLA",
+    "ventas": 25600,
+    "anio": 2021,
+    "anio_s": "2021"
+  },
+  {
+    "compania": "AMD",
+    "ventas": 31400,
+    "anio": 2021,
+    "anio_s": "2021"
+  },
+  {
+    "compania": "ORACLE",
+    "ventas": 112000,
+    "anio": 2022,
+    "anio_s": "2022"
+  },
+  {
+    "compania": "MICROSOFT",
+    "ventas": 61800,
+    "anio": 2022,
+    "anio_s": "2022"
+  },
+  {
+    "compania": "BROADCOM",
+    "ventas": 56230,
+    "anio": 2022,
+    "anio_s": "2022"
+  },
+  {
+    "compania": "NVIDIA",
+    "ventas": 33470,
+    "anio": 2022,
+    "anio_s": "2022"
+  },
+  {
+    "compania": "TESLA",
+    "ventas": 24900,
+    "anio": 2022,
+    "anio_s": "2022"
+  },
+  {
+    "compania": "AMD",
+    "ventas": 30800,
+    "anio": 2022,
+    "anio_s": "2022"
+  },
+  {
+    "compania": "ORACLE",
+    "ventas": 156900,
+    "anio": 2023,
+    "anio_s": "2023"
+  },
+  {
+    "compania": "MICROSOFT",
+    "ventas": 75600,
+    "anio": 2023,
+    "anio_s": "2023"
+  },
+  {
+    "compania": "BROADCOM",
+    "ventas": 80690,
+    "anio": 2023,
+    "anio_s": "2023"
+  },
+  {
+    "compania": "NVIDIA",
+    "ventas": 75650,
+    "anio": 2023,
+    "anio_s": "2023"
+  },
+  {
+    "compania": "TESLA",
+    "ventas": 39870,
+    "anio": 2023,
+    "anio_s": "2023"
+  },
+  {
+    "compania": "AMD",
+    "ventas": 45850,
+    "anio": 2023,
+    "anio_s": "2023"
+  },
+  {
+    "compania": "ORACLE",
+    "ventas": 129400,
+    "anio": 2024,
+    "anio_s": "2024"
+  },
+  {
+    "compania": "MICROSOFT",
+    "ventas": 60500,
+    "anio": 2024,
+    "anio_s": "2024"
+  },
+  {
+    "compania": "BROADCOM",
+    "ventas": 70400,
+    "anio": 2024,
+    "anio_s": "2024"
+  },
+  {
+    "compania": "NVIDIA",
+    "ventas": 60900,
+    "anio": 2024,
+    "anio_s": "2024"
+  },
+  {
+    "compania": "TESLA",
+    "ventas": 29500,
+    "anio": 2024,
+    "anio_s": "2024"
+  },
+  {
+    "compania": "AMD",
+    "ventas": 47300,
+    "anio": 2024,
+    "anio_s": "2024"
+  }
+]
