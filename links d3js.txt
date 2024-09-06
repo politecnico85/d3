@@ -56,3 +56,14 @@ https://d3-spanish.readthedocs.io/es/latest/basico/animaciones.html
 
 
 https://scribd.vdownloaders.com/vdoc/
+
+--- ldap
+https://github.com/eugenp/tutorials/blob/master/core-java-modules/core-java-jndi/src/test/java/com/baeldung/jndi/ldap/auth/JndiLdapAuthManualTest.java
+
+---- algoritmo de agrupamiento jerárquico ejercicios resueltos
+
+https://wpd.ugr.es/~bioestad/guia-spss/practica-8/
+
+https://medium.com/latinxinai/tutorial-del-algoritmo-de-agrupamiento-jer%C3%A1rquico-en-python-b3472c0dd829
+
+
