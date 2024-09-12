@@ -72,3 +72,7 @@ https://bost.ocks.org/mike/selection/
 
 ----
 https://blog.jortilles.com/tutorial-d3-js/
+----
+https://observablehq.com/@d3/gallery
+https://www.dashingd3js.com/d3-tutorial/data-structures-d3-js-accepts
+
