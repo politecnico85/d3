@@ -66,4 +66,9 @@ https://wpd.ugr.es/~bioestad/guia-spss/practica-8/
 
 https://medium.com/latinxinai/tutorial-del-algoritmo-de-agrupamiento-jer%C3%A1rquico-en-python-b3472c0dd829
 
+----
+https://bost.ocks.org/mike/
+https://bost.ocks.org/mike/selection/
 
+----
+https://blog.jortilles.com/tutorial-d3-js/
