@@ -79,3 +79,6 @@ https://www.dashingd3js.com/d3-tutorial/data-structures-d3-js-accepts
 
 --
 https://mig8447.github.io/oracle/apex/2019/02/24/oracle-apex-the-power-of-interactive-reports.html
+
+
+https://community.oracle.com/mosc/discussion/4345333/apex-ldap-authentication-post-authentication-procedure
