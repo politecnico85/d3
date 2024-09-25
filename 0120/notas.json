@@ -1,0 +1,15 @@
+[
+    {"alumno":"Fabian","nota":9.09,"ranking":38},
+    {"alumno":"Martha","nota":4,"ranking":40},
+    {"alumno":"Sebastian","nota":6.9,"ranking":30},
+    {"alumno":"Tania","nota":9.7,"ranking":30},
+    {"alumno":"Ximena","nota":4.5,"ranking":36},
+    {"alumno":"Yesenia","nota":8.5,"ranking":93},
+    {"alumno":"Johana","nota":8,"ranking":85},
+    {"alumno":"Federico","nota":5,"ranking":50},
+    {"alumno":"Agustin","nota":7,"ranking":40},
+    {"alumno":"Jose","nota":10,"ranking":19},
+    {"alumno":"Fabricio","nota":6,"ranking":60},
+    {"alumno":"Luis","nota":9.8,"ranking":3},
+    {"alumno":"Cabrera","nota":9.1,"ranking":9}
+]
