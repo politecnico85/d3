@@ -1,0 +1,8 @@
+TP = Las instanacias que pertenecen a la clase a 1 y que se han clasificado como de clase 1.
+
+TN = Todas las instancias que no pertenecen a la clase 1 y que no se han clasificado como de clase 1.
+
+FN = Todas las instancias que pertenecen a la clase 1 y no se clasifican en dicha clase
+
+
+FP = Todas las instancia que se han clasificado en la clase 1 pero que realmente no pertenecen a la clase 1.
