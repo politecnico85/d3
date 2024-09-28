@@ -82,3 +82,7 @@ https://mig8447.github.io/oracle/apex/2019/02/24/oracle-apex-the-power-of-intera
 
 
 https://community.oracle.com/mosc/discussion/4345333/apex-ldap-authentication-post-authentication-procedure
+
+
+
+https://medium.com/latinxinai/tutorial-del-algoritmo-k-means-en-python-d8055751e2f3
